@@ -1,5 +1,5 @@
 <h3 align="center">
-  <img src="https://github.com/LifeLine-2ADSA/projeto-life-line/blob/main/SiteInstitucional/assets/images/logoLifeLine.png" alt="Life Line logo" height="300px"/>
+  <img src="https://github.com/LifeLine-2ADSA/Site-Institucional/blob/main/public/home/assets/images/logoLifeLine.png" alt="Life Line logo" height="300px"/>
 </h3>
 
 # 💙 Life Line 
